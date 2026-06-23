@@ -14,5 +14,5 @@ I am a junior developer passionate about automation, web scraping, and building 
 - 📚 Studying clean code practices and algorithms
 
 ### 📬 How to reach me
-- **Telegram:** [Your Username or Link Here]
-- **Email:** [Your Email Here]
+- **Telegram:** @imheir
+- **Email:** starinskyi.olexander@gmai.com
